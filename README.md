@@ -100,7 +100,7 @@ void loop() {
 
 ![alt tag](https://github.com/delfer66/Mando-FMS/blob/master/res/cp.png)
 
-        o	Al abrir la caja
+        o	Al abrir la caja (cuadrado rojo)
 
 ![alt tag](https://github.com/delfer66/Mando-FMS/blob/master/res/cp1.png)
 
@@ -108,15 +108,15 @@ void loop() {
 
 ![alt tag](https://github.com/delfer66/Mando-FMS/blob/master/res/mando.png)
 
-        o	Al abrir la caja
+        o	Al abrir la caja (cuadrado rojo)
 
 ![alt tag](https://github.com/delfer66/Mando-FMS/blob/master/res/mando1.png)
 
-    •	El programa TornoNCL2000.ino en el microcontrolador Arduino Due.
+    •	El programa TornoNCL2000.ino en el microcontrolador Arduino Due. (cuadrado rojo)
 
 ![alt tag](https://github.com/delfer66/Mando-FMS/blob/master/res/torno.png)
 
-    •	El programa FresadoraNCM2000.ino en el microcontrolador Arduino Due.
+    •	El programa FresadoraNCM2000.ino en el microcontrolador Arduino Due. (cuadrado rojo)
 
 ![alt tag](https://github.com/delfer66/Mando-FMS/blob/master/res/fresadora.png)
 
@@ -128,4 +128,3 @@ Debido a que el hardware implementado es mucho más potente de lo requerido para
     •	Desarrollo de software de automatización y manufactura flexible enfocado en la producción en serie.
     •	Repotenciación, fabricación o integración de un manipulador robótico exclusivo para la estación.
     •	Integración de medios de comunicación como: Ethernet, ModBUS, Wi-fi o Bluetooth.
-
